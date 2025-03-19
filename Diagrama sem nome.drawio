@@ -155,18 +155,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6yGnUgNUN8M_2ltUxog0" name="pagina3">
-    <mxGraphModel dx="808" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tpT8Xt9ig4y8cjG8lLUg-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="tpT8Xt9ig4y8cjG8lLUg-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="700" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tpT8Xt9ig4y8cjG8lLUg-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="tpT8Xt9ig4y8cjG8lLUg-2" value="Recepcionista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="700" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tpT8Xt9ig4y8cjG8lLUg-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="900" width="30" height="60" as="geometry" />
+        <mxCell id="tpT8Xt9ig4y8cjG8lLUg-3" value="Auxilia de cozinha" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="920" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tpT8Xt9ig4y8cjG8lLUg-5" value="Fazer agendamento local" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="120" height="80" as="geometry" />
