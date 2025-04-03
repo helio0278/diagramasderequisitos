@@ -792,6 +792,48 @@
         <mxCell id="fRgqhKt5XHwfxX7_shny-12" value="sistema de gestão aeroportuária" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry width="290" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-1" value="Passageiros" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-4" value="comprar passagens" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-5" value="realizar check-in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cyR6ONB7yZ2hIoi38FfY-1" target="cyR6ONB7yZ2hIoi38FfY-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="130" as="sourcePoint" />
+            <mxPoint x="130" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cyR6ONB7yZ2hIoi38FfY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="210" as="sourcePoint" />
+            <mxPoint x="140" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-8" value="companhias aéreas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-11" value="gerenciar reservas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.03;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cyR6ONB7yZ2hIoi38FfY-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="120" as="sourcePoint" />
+            <mxPoint x="433.5999999999999" y="94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cyR6ONB7yZ2hIoi38FfY-8" target="cyR6ONB7yZ2hIoi38FfY-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <mxPoint x="430" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cyR6ONB7yZ2hIoi38FfY-14" value="cadastrar voos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="67.5" width="120" height="52.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
